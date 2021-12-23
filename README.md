@@ -4,6 +4,7 @@
 * Install Visual Studio Code 16.11.8
 * Install Nodejs 16.13.1
 ## How to run this file:
+* Download the collection zip file
 * Import collections to VS code
 * Open terminal
 * Give following commands:
