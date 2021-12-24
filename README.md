@@ -1,7 +1,7 @@
 # Postman-Newman
 ## Prerequisites:
 * Install Postman 9.4.1
-* Install Visual Studio Code 16.11.8
+* Install Visual Studio Code 1.6
 * Install Nodejs 16.13.1
 ## How to run this file:
 * Download the collection zip file
