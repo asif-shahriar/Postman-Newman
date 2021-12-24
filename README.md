@@ -12,7 +12,7 @@
 npm i newman
 ```
 ```
-npx newman run .\collection\customers_collection.json -e .\collection\customerEnv -n 1
+npx newman run .\collection\customers_collection.json -e .\collection\customerEnv.json -n 1
 ```
 ```
 npm i newman-reporter-htmlextra
