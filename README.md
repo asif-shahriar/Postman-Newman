@@ -18,7 +18,7 @@ npm i newman-reporter-htmlextra
 ```
 node .\report.js 
 ```
-
+## Screenshot
 This is the snapshot of the **index.html** file
 
 ![Screenshot_1](https://user-images.githubusercontent.com/71173675/152147529-4fe5ae30-f12b-42b5-a24c-131f3322d3c0.png)
